@@ -12,6 +12,19 @@ I am currently a Postdoctoral Fellow in the Department of Data and Systems Engin
 My research lies at the intersection of artificial intelligence and classical mathematical optimization, with a specific focus on leveraging machine learning and combinatorial optimization techniques to address challenging decision-making problems arising in manufacturing systems, supply chains, and power systems.
 
 
+Acedemic Degrees
+======
+* Ph.D in Control Science and Engineering, Tsinghua University, 2024
+* B.Eng. in Control Science and Engineering, Shandong University, 2019
+
+Experience
+======
+* 2025.4-now: Postdoc Fellow
+  * Department of Data and System Engineering, The University of Hong Kong
+* 2019.9-2024.12: Research Assistant
+  * Department of Automation, Tsinghua University
+
+
 
 
 
