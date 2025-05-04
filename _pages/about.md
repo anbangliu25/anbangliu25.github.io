@@ -13,17 +13,20 @@ My research lies at the intersection of artificial intelligence and classical ma
 
 Acedemic Degrees
 ======
-* Ph.D in Control Science and Engineering, Tsinghua University, 2024
-* B.Eng. in Control Science and Engineering, Shandong University, 2019
+* Ph.D., Tsinghua University, 2024
+* B.Eng., Shandong University, 2019
 
 Experience
 ======
 * 2025.4-now: Postdoc Fellow
-  * Department of Data and System Engineering, The University of Hong Kong
+  * Department of Data and System Engineering
+  * The University of Hong Kong
 * 2023.8-2024.3: Visiting Student
-  * Robert H. Smith School of Business, University of Maryland, College Park
+  * Robert H. Smith School of Business
+  * University of Maryland, College Park
 * 2019.9-2024.12: Research Assistant
-  * Department of Automation, Tsinghua University
+  * Department of Automation
+  * Tsinghua University
 
 
 
