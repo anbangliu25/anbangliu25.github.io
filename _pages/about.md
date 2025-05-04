@@ -11,7 +11,6 @@ I am currently a Postdoctoral Fellow in the Department of Data and Systems Engin
 
 My research lies at the intersection of artificial intelligence and classical mathematical optimization, with a specific focus on leveraging machine learning and combinatorial optimization techniques to address challenging decision-making problems arising in manufacturing systems, supply chains, and power systems.
 
-
 Acedemic Degrees
 ======
 * Ph.D in Control Science and Engineering, Tsinghua University, 2024
@@ -21,6 +20,8 @@ Experience
 ======
 * 2025.4-now: Postdoc Fellow
   * Department of Data and System Engineering, The University of Hong Kong
+* 2023.8-2024.3: Visiting Student
+  * Robert H. Smith School of Business, University of Maryland, College Park
 * 2019.9-2024.12: Research Assistant
   * Department of Automation, Tsinghua University
 
