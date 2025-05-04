@@ -9,27 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Acedemic Degrees
 ======
 * Ph.D in Control Science and Engineering, Tsinghua University, 2024
 * B.Eng. in Control Science and Engineering, Shandong University, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025.4-now: Postdoc Fellow
+  * Department of Data and System Engineering, The University of Hong Kong
+* 2019.9-2024.12: Research Assistant
+  * Department of Automation, Tsinghua University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
   
 Skills
 ======
