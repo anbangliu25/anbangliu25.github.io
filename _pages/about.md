@@ -12,7 +12,7 @@ I am currently a Postdoctoral Fellow in the Department of Data and Systems Engin
 
 Research Interests
 ======
-My research lies at the intersection of artificial intelligence and classical mathematical optimization, with a specific focus on leveraging machine learning and combinatorial optimization techniques to address challenging decision-making problems arising in manufacturing systems, supply chains, and power systems.
+My research lies at the intersection of artificial intelligence and classical mathematical optimization, with a specific focus on developing Mixed Integer Programming approaches and Machine Learning approaches to solve challenging decision-making problems arising in manufacturing systems, supply chains, and power systems.
 
 If you have any ideas you'd like to discuss or collaborate on, please feel free to contact me via (anbang at hku dot hk).
 
