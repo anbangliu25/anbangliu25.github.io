@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,10 +18,6 @@ If you have any ideas you'd like to discuss or collaborate on, please feel free 
 
 
 
-
-Publications
-======
-Please find the list of my publications at my Google Scholar site: https://scholar.google.com/citations?user=L726TpwAAAAJ&hl=en
 
 
 Acedemic Degrees
