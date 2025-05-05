@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Acedemic Degrees
-======
-* Ph.D in Control Science and Engineering, Tsinghua University, 2024
-* B.Eng. in Control Science and Engineering, Shandong University, 2019
-
 Work experience
 ======
 * 2025.4-now: Postdoc Fellow
@@ -44,13 +39,3 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
