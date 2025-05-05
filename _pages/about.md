@@ -26,6 +26,12 @@ Acedemic Degrees
 * B.Eng., Shandong University, 2019
 
 
+Academic Service
+======
+* Reviewer for IEEE Transaction on Automation Science and Engineering, IEEE Conference on Automation Science and Engineering.
+* Session Co-chair, Session: Automation for Manufacturing and Logistics. 2023 IEEE 19th International Conference on Automation Science and Engineering (CASE 2023) Auckland, New Zealand
+* Session Co-chair, Session: Exploring the Intersection of Machine Learning and Discrete Optimization: Techniques and Applications. 2023 INFORMS Annual Meeting. Phoenix, Arizona, US
+
  
 
 
