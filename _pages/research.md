@@ -18,6 +18,7 @@ If you have any ideas you'd like to discuss or collaborate on, please feel free 
 Publications
 ======
 * Anbang Liu, Zhi-Long Chen, Jinyang Jiang, Xi Chen, “Integrated Offline and Online Learning to Solve a Large Class of Scheduling Problems,” Under Review in Operations Research (OR)
+{% pdf "/files/paper3.pdf" %}
 
 * Anbang Liu, Mikhail A Bragin, Xi Chen, Xiaohong Guan, “Accelerating Level-Value Adjustment for the Polyak Stepsize,” Under Second Round Review in Journal of Optimization Theory and Applications (JOTA)
 
