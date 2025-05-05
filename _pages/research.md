@@ -9,33 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
+Research Interests
 ======
-* 2025.4-now: Postdoc Fellow
-  * Department of Data and System Engineering, The University of Hong Kong
-* 2019.9-2024.12: Research Assistant
-  * Department of Automation, Tsinghua University
+My research lies at the intersection of artificial intelligence and classical mathematical optimization, with a specific focus on developing Mixed Integer Programming approaches and Machine Learning approaches to solve challenging decision-making problems arising in manufacturing systems, supply chains, and power systems.
 
-
-
+If you have any ideas you'd like to discuss or collaborate on, please feel free to contact me via (anbang at hku dot hk).
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Anbang Liu, Peter B. Luh, Mikhail A. Bragin and Bing Yan, “Ordinal-Optimization Concept Enabled Decomposition and Coordination of Mixed-Integer Linear Programming Problems,” IEEE Robotics and Automation Letters (IEEE RAL), vol. 5, no. 4, pp. 5051-5058, Oct. 2020
+* Anbang Liu, Peter B. Luh, Kailai Sun, Mikhail A. Bragin and Bing Yan, “Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling,” IEEE Transactions on Automation Science and Engineering (IEEE TASE), Vol. 6, no.3, pp. 4829 - 4850, July 2024
+* Yuhang Zhu, Gaochen Cui, Anbang Liu, Qing-Shan Jia, Xiaohong Guan, Qiaozhu Zhai, Qi Guo, and Xianping Guo, “A Reinforcement Learning Embedded Surrogate Lagrangian Relaxation Method for Fast Solving Unit Commitment Problems,” IEEE Transactions on Power System (IEEE TPWRS)
+* Anbang Liu, Mikhail A Bragin, Xi Chen, Xiaohong Guan, “Accelerating Level-Value Adjustment for the Polyak Stepsize,” Under Second Round Review in Journal of Optimization Theory and Applications (JOTA)
+* Anbang Liu, Zhi-Long Chen, Jinyang Jiang, Xi Chen, “Integrated Offline and Online Learning to Solve a Large Class of Scheduling Problems,” Under Review in Operations Research (OR)
+
