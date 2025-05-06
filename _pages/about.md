@@ -17,16 +17,7 @@ My research lies at the intersection of artificial intelligence and classical ma
 If you have any ideas you'd like to discuss or collaborate on, please feel free to contact me via (anbang at hku dot hk).
 
 
-
-
-
-Acedemic Degrees
-======
-* Ph.D., Tsinghua University, 2024
-* B.Eng., Shandong University, 2019
-
-
-Academic Service
+Service
 ======
 * Reviewer for IEEE Transaction on Automation Science and Engineering, IEEE Conference on Automation Science and Engineering.
 * Session Co-chair, Session: Automation for Manufacturing and Logistics. 2023 IEEE 19th International Conference on Automation Science and Engineering (CASE 2023) Auckland, New Zealand
