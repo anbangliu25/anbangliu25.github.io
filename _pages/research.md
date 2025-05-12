@@ -18,7 +18,7 @@ Publications
 ======
 * Anbang Liu, Zhi-Long Chen, Jinyang Jiang, Xi Chen, “Integrated Offline and Online Learning to Solve a Large Class of Scheduling Problems,” Under Review in Operations Research (OR)
 
-* Anbang Liu, Mikhail A Bragin, Xi Chen, Xiaohong Guan, “Accelerating Level-Value Adjustment for the Polyak Stepsize,” Under Second Round Review in Journal of Optimization Theory and Applications (JOTA)
+* Anbang Liu, Mikhail A Bragin, Xi Chen, Xiaohong Guan, “Accelerating Level-Value Adjustment for the Polyak Stepsize,” Under Minor Revision in Journal of Optimization Theory and Applications (JOTA)
 
 * Yuhang Zhu, Gaochen Cui, Anbang Liu, Qing-Shan Jia, Xiaohong Guan, Qiaozhu Zhai, Qi Guo, and Xianping Guo, “A Reinforcement Learning Embedded Surrogate Lagrangian Relaxation Method for Fast Solving Unit Commitment Problems,” IEEE Transactions on Power System (IEEE TPWRS), early access
   
