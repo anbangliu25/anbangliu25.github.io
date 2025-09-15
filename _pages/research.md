@@ -16,9 +16,11 @@ If you have any ideas you'd like to discuss or collaborate on, please feel free 
   
 Journal Publications
 ======
-* Anbang Liu, Zhi-Long Chen, Jinyang Jiang, Xi Chen, “Integrated Offline and Online Learning to Solve a Large Class of Scheduling Problems,” Under Review in Operations Research (OR)
+* Anbang Liu, Zhi-Long Chen, Jinyang Jiang, Xi Chen, “Integrated Offline and Online Learning to Solve a Large Class of Scheduling Problems,” R&R at Operations Research (OR)
 
-* Anbang Liu, Mikhail A Bragin, Xi Chen, Xiaohong Guan, “Accelerating Level-Value Adjustment for the Polyak Stepsize,” Journal of Optimization Theory and Applications (JOTA), accepted
+* Jingtao Qin, Anbang Liu, Mikhail A. Bragin, Nanpeng Yu, AccSPS Learning Rate: Accelerated Convergence through Decision-Adjusted Levels for Stochastic Polyak Stepsize, IEEE Transactions on Automation Science and Engineering (IEEE TASE), Accepted.
+
+* Anbang Liu, Mikhail A. Bragin, Xi Chen, Xiaohong Guan, “Accelerating Level-Value Adjustment for the Polyak Stepsize,” Journal of Optimization Theory and Applications (JOTA), accepted
 
 * Yuhang Zhu, Gaochen Cui, Anbang Liu, Qing-Shan Jia, Xiaohong Guan, Qiaozhu Zhai, Qi Guo, and Xianping Guo, “A Reinforcement Learning Embedded Surrogate Lagrangian Relaxation Method for Fast Solving Unit Commitment Problems,” IEEE Transactions on Power System (IEEE TPWRS), accepted
   
